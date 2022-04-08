@@ -1,0 +1,12 @@
+* npm install typescrip —save-dev
+* npx tsc (kompiliert zu ts)
+* npm install ts-node —save-dev
+* npx ts-node app.ts
+* npm install eslint —save-dev
+
+Probleme bei Installation der eslint config
+* rm -rf node_modules package-lock.json
+* npm install eslint eslint-config-es —save-dev
+
+git init
+gitignore kopieren
